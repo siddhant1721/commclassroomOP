@@ -1,4 +1,5 @@
 # commclassroomOP
 
--kunal khuswaha says that this community is amazing. OP OP
-- ANUJ OP
+Vinay Moturi says that learning GIT hub is easy compared to other things
+
+
